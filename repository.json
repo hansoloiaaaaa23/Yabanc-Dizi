@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "Yabancı Dizi",
+      "description": "Yabancidizi.tv eklentisi",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/hansoloiaaaaa23/Yabanc-Dizi/main/yabancidizi.zip",
+      "authors": ["seninAdın"],
+      "language": "tr",
+      "type": "tv"
+    }
+  ]
+}
